@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 🇧🇷
 
-<!--
-**antonyportela/antonyportela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é antony gabriel portela.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- utilizo a plataforma alura para estudar linguagens de programação.
+- estou me desenvolvendo nas linguagens Java Script, HTML e Css
+- utilizo este espaço para minha organização e compartilha mento dos meus projetos
+
+### você pode entrar em contato comigo 📫
+antony.portela@escola.pr.gov.br
+
+![](https://media.tenor.com/OjAm3-oSsxkAAAAM/cole-king-willow.gif)
